@@ -1,0 +1,112 @@
+@media (max-width:992px) {
+  .ipp{
+    margin-bottom: 7px;
+  }
+
+  .banner-area {
+    background-position: 100% 0;
+  }
+
+  .man-text .text {
+    padding-top: 39px;
+  }
+
+  .our .rfg {
+    padding-top: 64px;
+  }
+
+  .cat {
+    margin-bottom: 116px;
+  }
+  
+}
+
+@media (max-width:900px) {
+  .banner-text > h2 {
+    font-size: 30px;
+    margin-bottom: 40px;
+  }
+  .banner-text > h4 {
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  .banner-area {
+    background-position: 0 100%;
+  }
+
+
+}
+
+@media (max-width:768px){
+  .banner-text > h2 {
+    font-size: 25px;
+    margin-bottom: 35px;
+  }
+  .banner-text > h4 {
+    font-size: 13px;
+    margin-bottom: 25px;
+  }
+
+  .left-text-sec h4{
+    font-size: 20px;
+  }
+
+  .Feedback-item h1 {
+    padding-top: 20px;
+    font-size: 38px;
+  }
+
+  .our .rfg {
+    padding-top: 64px;
+  }
+
+  .cat {
+    margin-bottom: 116px;
+  }
+
+  .form-text> h3 {
+    font-size: 22px;
+  }
+}
+
+@media (max-width:576px) {
+  .janpaki > h2 {
+    font-size: 35px;
+  }
+
+  .portfolio-text > h2 {
+    padding-top: 29px;
+    font-size: 38px;
+  }
+
+  .prising-text > h1 {
+    font-size: 31px;
+  }
+
+  .prising-text > p {
+    font-size: 17px;
+  }
+
+  .Feedback-item h1 {
+    padding-top: 20px;
+    font-size: 31px;
+  }
+}
+
+
+@media (max-width:497px) {
+  .banner-text > h2 {
+    font-size: 20px;
+    margin-bottom: 27px;
+  }
+  .banner-text > h4 {
+    font-size: 11px;
+    margin-bottom: 17px;
+  }
+}
+
+@media (max-width:433px) {
+  .chil button {
+    margin: 5px 15px;
+  }
+}
